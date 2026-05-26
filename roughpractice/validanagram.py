@@ -19,4 +19,4 @@ def isAnagram(s, t):
     return True
 
 print(isAnagram("anam", "mana"))
-print(isAnagram("Book", "Cook"))
+print(isAnagram("Book", "koooB"))
